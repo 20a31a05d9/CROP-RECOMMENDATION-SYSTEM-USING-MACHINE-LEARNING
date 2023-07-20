@@ -179,4 +179,5 @@ while True:
     window['-OUTPUT1-'].update('The best crop that you can grow : ' + crop_name )                                     # Suggesting the best crop after prediction.
     speak("The best crop that you can grow is  " + crop_name)
 
+
 window.close()
